@@ -22,8 +22,6 @@ public class MainActivity extends AppCompatActivity {
 
     private TextView mDeviceTxt;
 
-    private final String testStr = "关于纹理的性能|WebGL地图引擎系列第五期\n"+ "2017年6月2日原创";
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
