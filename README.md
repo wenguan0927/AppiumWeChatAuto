@@ -3,7 +3,9 @@
 
 2、此工程是基于Appium和Java来实现的Android微信客户端自动化浏览的操作；
 
-3、不做Android开发的可以下载Eclipse IDE，在Eclipse下运行Java程序还比较方便，拷贝工程源码中的三份文件即可
+3、使用AndroidStudio创建项目主要是为了可以直接运行APK到设备或虚拟机上查看所需的设备信息，运行Android工程查看设备信息的时候Edit Configurations切换到app，运行自动化脚本的时候切换到AppiumAutoScan。支持按最近一周，一个月，一年或爬取所有历史文章，checkTimeLimit()传入不同限制时间类型的参数即可。
+
+4、不做Android开发的可以下载Eclipse IDE，在Eclipse下运行Java程序还比较方便，拷贝以下工程源码中的三份文件即可。
 
 * java-client-3.1.0.jar 
 * selenium-server-standalone-2.44.0.jar  
@@ -13,6 +15,6 @@ Eclipse IDE下载地址： http://www.eclipse.org/downloads/packages/
 
 Java版本和对应的Eclipse IDE版本参考：http://wiki.eclipse.org/Eclipse/Installation
 
-详细的运行环境配置和遇到的问题及解决方法可参考个人博文：http://www.chenwenguan.com/wechat-browse-automation/
+5、详细的运行环境配置和遇到的问题及解决方法可参考个人博文：http://www.chenwenguan.com/wechat-browse-automation/
 
 
