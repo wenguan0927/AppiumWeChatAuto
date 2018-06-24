@@ -113,7 +113,7 @@ public class AppiumAutoScan {
     }
 
     /**
-     * 持续滑动直到列表底部
+     * 滑动列表加载下一页数据
      *
      * @param driver
      * @return
@@ -349,7 +349,7 @@ public class AppiumAutoScan {
     }
 
     /**
-     * 搜索一个公众号,并进入历史文章列表
+     * 进入历史文章列表
      *
      * @param driver
      * @param name
