@@ -15,6 +15,6 @@ Eclipse IDE下载地址： http://www.eclipse.org/downloads/packages/
 
 Java版本和对应的Eclipse IDE版本参考：http://wiki.eclipse.org/Eclipse/Installation
 
-5、详细的运行环境配置和遇到的问题及解决方法可参考个人博文：http://www.chenwenguan.com/wechat-browse-automation/
+5、完整说明见个人博文，包括详细的运行环境配置和遇到的问题及解决方法：http://www.chenwenguan.com/wechat-browse-automation/
 
 
