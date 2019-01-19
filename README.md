@@ -15,7 +15,7 @@ Eclipse IDE下载地址： http://www.eclipse.org/downloads/packages/
 
 Java版本和对应的Eclipse IDE版本参考：http://wiki.eclipse.org/Eclipse/Installation
 
-5、完整说明参考个人博文，包括详细的运行环境配置和遇到的问题及解决方法：[微信公众号文章采集之：微信自动化](http://www.chenwenguan.com/wechat-browse-automation/)
+5、完整说明参考个人博文，包括详细的运行环境配置和遇到的问题及解决方法：[微信公众号文章采集之：微信自动化](https://www.chenwenguan.com/wechat-browse-automation/)
 
-对应的微信公众号文章爬取JavaWeb服务端实现参考：[微信公众号文章采集之：服务端数据采集](http://www.chenwenguan.com/wechat-spider-server/)
+对应的微信公众号文章爬取JavaWeb服务端实现参考：[微信公众号文章采集之：服务端数据采集](https://www.chenwenguan.com/wechat-spider-server/)
 
